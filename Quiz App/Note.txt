@@ -1,0 +1,4 @@
+This application is developed basically to find 
+how well do your friends really know you.
+
+If they get full score, they certainly know you well.
